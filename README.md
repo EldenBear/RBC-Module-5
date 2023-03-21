@@ -1,4 +1,4 @@
-# RBC-Module-5
+# Work-Day-Scheduler-RBC
 
 ## Description
 Link to live app: https://eldenbear.github.io/RBC-Module-5/ 
